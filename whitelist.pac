@@ -6,6 +6,7 @@ var ip_proxy = "DIRECT;";
 /*
  * Copyright (C) 2014 breakwa11
  * https://github.com/breakwa11/gfw_whitelist
+ * Edit by livhong.
  */
 
 var white_domains = {"am":{
@@ -9262,6 +9263,7 @@ var white_domains = {"am":{
 "zzrc":1
 },"org":{
 "acm":1,
+"ieee":1,
 "0513":1,
 "1000plan":1,
 "1203":1,
