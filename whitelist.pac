@@ -8310,7 +8310,8 @@ var white_domains = {"am":{
 "meihua":1,
 "williamlong":1
 },"jobs":{
-"cn":1
+"cn":1,
+"edu":1
 },"jp":{
 "china-embassy.or":1
 },"kr":{
