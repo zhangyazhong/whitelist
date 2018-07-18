@@ -8339,6 +8339,7 @@ var white_domains = {"am":{
 },"mobi":{
 "i1515":1
 },"net":{
+"coding":1,
 "001sj":1,
 "00615":1,
 "020p":1,
