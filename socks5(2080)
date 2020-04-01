@@ -237,6 +237,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"vzuu":1,
 "bilivideo":1,
 "dxmstatic":1,
 "90pan":1,
@@ -10136,3 +10137,5 @@ function FindProxyForURL(url, host) {
 	}
 	return wall_proxy;
 }
+
+// console.log(FindProxyForURL('zhimg.com', 'zhihu-web-analytics.zhihu.com'));
