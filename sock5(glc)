@@ -237,6 +237,10 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"ksyungslb":1,
+"xycdn":1,
+"vzuu":1,
+"bilivideo":1,
 "dxmstatic":1,
 "90pan":1,
 "woozooo":1,
@@ -8717,6 +8721,7 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"biliapi":1,
 "coding":1,
 "blogjava":1,
 "ascii2d":1,
